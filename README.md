@@ -37,20 +37,8 @@ Install the following Python packages:
 pip install SpeechRecognition pyttsx3 requests
 
 
-For microphone input, also install:
 
-```bash
-pip install pyaudio
 
- Note: On Windows, you may need to install PyAudio from a .whl file if installation via pip fails. You can find suitable wheels at https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
-
-📁 Project Structure
-
-```bash
-lina-voice-assistant/
-│
-├── lina.py           # Main script for the voice assistant
-├── musiclib.py       # Dictionary of song names mapped to their URLs
-├── README.md         # Project documentation
+ 
 
 

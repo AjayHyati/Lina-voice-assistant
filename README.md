@@ -33,9 +33,9 @@ The aim of Lina is to demonstrate how speech recognition and voice synthesis can
 
 Install the following Python packages:
 
-```bash
+```
 pip install SpeechRecognition pyttsx3 requests
-
+```
 For microphone input, also install:
 ```
 pip install pyaudio

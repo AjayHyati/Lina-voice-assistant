@@ -36,6 +36,12 @@ Install the following Python packages:
 ```bash
 pip install SpeechRecognition pyttsx3 requests
 
+For microphone input, also install:
+```
+pip install pyaudio
+```
+⚠️ Note: On Windows, you may need to install PyAudio from a .whl file if installation via pip fails. You can find suitable wheels at https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+
 
 
 
